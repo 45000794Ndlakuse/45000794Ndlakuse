@@ -1,4 +1,4 @@
-<h1>Hi, I'm Thamsanqa Ndlakuse! <br/><a href="https://github.com/45000794Ndlakuse">Software Programmer</a>, <a href="www.linkedin.com/in/thamsanqa-ndlakuse-15a17a317">NWU BSc Honours Computer Sciences and Information Technology Student, BSc IT Graduate</a> </h1>
+<h1>Hi, I'm Thamsanqa Ndlakuse! <br/><a href="https://github.com/45000794Ndlakuse">Systems and Business Analyst</a>, <a href="www.linkedin.com/in/thamsanqa-ndlakuse-15a17a317">NWU BSc Honours Computer Sciences and Information Technology Student, BSc IT Graduate</a> </h1>
 
 <h2> 🤳 Connect with me:</h2>
 
