@@ -1,6 +1,7 @@
-<h1>Hi, I'm Thamsanqa Ndlakuse! <br/><a href="https://github.com/45000794Ndlakuse">Systems and Business Analyst</a>, <a href="www.linkedin.com/in/thamsanqa-ndlakuse-15a17a317">NWU BSc Honours Computer Sciences and Information Technology Student, BSc IT Graduate</a> </h1>
+<h1>Hi, I'm Thamsanqa Ndlakuse! <br/ </h1>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Aspiring Systems and Business Analyst, Digital Entrepreneurship. NWU BSc Honours Computer Sciences and Information Technology Student, BSc IT Graduate </h2>
+<h2>🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
